@@ -1,0 +1,23 @@
+{
+	"id": "4092c1b8-4117-4215-94e4-ded0b84a5ec0",
+	"createdAt": "2025-11-09T23:31:30.941Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "prom_appdoc_servant",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "prom_appdoc_servant",
+	"ver": "25.11.10.0031",
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [],
+	"baseModel": null
+}

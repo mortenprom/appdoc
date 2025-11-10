@@ -1,0 +1,176 @@
+{
+	"id": "64775593-203e-4f44-86e7-0169931822d9",
+	"createdAt": "2025-11-09T23:29:42.016Z",
+	"createdBy": "morten@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "6e9cf6fa-c787-4fae-c30d-d23a09e16009",
+			"fieldName": "ContainerServant",
+			"fieldParent": 0,
+			"fieldType": "sap.m.FlexBox",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "renderType",
+					"grouping": "Properties",
+					"value": "Bare",
+					"script": "",
+					"translation": []
+				}
+			],
+			"data": [
+				{
+					"fieldNo": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
+					"fieldName": "FormServant",
+					"fieldParent": "6e9cf6fa-c787-4fae-c30d-d23a09e16009",
+					"fieldType": "sap.ui.layout.form.SimpleForm",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "editable",
+							"grouping": "Properties",
+							"value": "true",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "58ea88f5-4afe-4542-eace-21dad91bc136",
+							"fieldName": "lbFormServantAnimal",
+							"fieldParent": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
+							"fieldType": "sap.m.Label",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Animal",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "c4f6ef6c-bce8-40e2-ba74-a157c7b75341",
+							"fieldName": "inFormServantAnimal",
+							"fieldParent": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
+							"fieldType": "sap.m.Input",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "value",
+									"grouping": "Properties",
+									"value": "Canis Lupus",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "0a788076-cca7-46ed-f446-463e756b2f2f",
+							"fieldName": "lbFormServantBreed",
+							"fieldParent": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
+							"fieldType": "sap.m.Label",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Breed",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "b9d5de00-e0ea-4f86-94c4-4480f620c8e9",
+							"fieldName": "inFormServantBreed",
+							"fieldParent": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
+							"fieldType": "sap.m.Input",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "value",
+									"grouping": "Properties",
+									"value": "Siberian Husky",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "25.11.10.0031",
+	"application": "prom_appdoc_servant",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_integration": false,
+	"ui5_chart": false,
+	"ui5_theme": "",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
+	"apis": []
+}

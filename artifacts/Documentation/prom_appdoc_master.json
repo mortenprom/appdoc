@@ -1,0 +1,41 @@
+{
+	"id": "4894b241-f518-4f37-9d3d-b6b313aab0b9",
+	"createdAt": "2025-11-09T23:35:21.555Z",
+	"createdBy": "morten@neptune-software.com",
+	"content": [
+		{
+			"id": "41c4bdf0-aab8-4a42-de7b-ab11f464da4d",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<p>{i18n.promAppdoc&gt;contryContent}</p>",
+			"typeWidth": "rm",
+			"typeHeight": "rm",
+			"icon": "sap-icon://nep/adaptive-designer",
+			"title": "{i18n.promAppdoc>country}",
+			"description": "{i18n.promAppdoc>city}",
+			"fieldNo": "lbFormMasterCountry",
+			"dialogWidth": "20",
+			"dialogHeight": "15"
+		},
+		{
+			"id": "d3fa04a8-373f-48be-f0c9-c60e13344d43",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<h3>City<br></h3><p>Nice city</p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "sap-icon://nep/app-editor",
+			"title": "City",
+			"description": "Oslo",
+			"fieldNo": "lbFormMasterCity"
+		}
+	],
+	"application": "prom_appdoc_master",
+	"actionType": "A",
+	"adaptiveId": null,
+	"actionWebApp": null,
+	"ver": "25.11.10.1417",
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc"
+}

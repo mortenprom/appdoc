@@ -1,0 +1,116 @@
+{
+	"id": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
+	"createdAt": "2025-11-09T23:13:38.396Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/mortenprom/appdoc.git",
+		"branch": "main"
+	},
+	"name": "prom-appdoc",
+	"description": null,
+	"ver": "25.11.10.0014",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [
+		{
+			"id": "d8a541d3-9a3d-4307-8964-a83f36bfebf4",
+			"application": "prom_appdoc_master",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "64775593-203e-4f44-86e7-0169931822d9",
+			"application": "prom_appdoc_servant",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"theme_generator": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "83616b33-1592-4e44-951e-eb9ebcb18439",
+			"description": null,
+			"name": "prom-appdoc"
+		}
+	],
+	"tile_layout": [],
+	"category": [
+		{
+			"id": "eedb4c88-9ec2-4bee-b654-782b8acffc02",
+			"description": null,
+			"name": "prom-appdoc"
+		}
+	],
+	"tilegroup_layout": [],
+	"launchpad": [
+		{
+			"id": "688a8c0c-e42a-421a-b503-8d53471ae9fd",
+			"name": "prom-appdoc",
+			"description": null
+		}
+	],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [
+		{
+			"id": "d9cd900c-32f1-4ba1-9fec-632374a86fb6",
+			"application": "prom_appdoc_servant"
+		},
+		{
+			"id": "4894b241-f518-4f37-9d3d-b6b313aab0b9",
+			"application": "prom_appdoc_master"
+		}
+	],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [
+		{
+			"id": "ea78b8aa-8c52-4d96-a657-006df64add88",
+			"name": "prom_appdoc_master",
+			"description": null
+		},
+		{
+			"id": "ca168cd7-1f79-4d3f-bae4-59a0b34ff24d",
+			"name": "promAppdoc",
+			"description": null
+		},
+		{
+			"id": "4092c1b8-4117-4215-94e4-ded0b84a5ec0",
+			"name": "prom_appdoc_servant",
+			"description": null
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": []
+}

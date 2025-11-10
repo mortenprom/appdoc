@@ -1,0 +1,51 @@
+{
+	"id": "ca168cd7-1f79-4d3f-bae4-59a0b34ff24d",
+	"createdAt": "2025-11-10T13:09:42.034Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [
+		{
+			"text": "My International City",
+			"name": "city",
+			"EN": {
+				"text": "My International City"
+			},
+			"type": "XTXT",
+			"id": "78400957-763b-432a-8876-5c87e61c931b"
+		},
+		{
+			"name": "contryContent",
+			"text": "<h4>Country</h4><p>The best country</p>",
+			"EN": {
+				"text": "<h4>Country</h4><p>The best country</p>"
+			},
+			"type": "XTXT",
+			"id": "75ebb7ca-cdb3-4d03-bfd6-62091ef88f87"
+		},
+		{
+			"name": "country",
+			"text": "My International Country",
+			"EN": {
+				"text": "My International Country"
+			},
+			"type": "XTXT",
+			"id": "1b7e41d9-2c84-4f36-c2d5-3e881ccf2295"
+		}
+	],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "promAppdoc",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": null,
+	"ver": "25.11.10.1416",
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [],
+	"baseModel": null
+}

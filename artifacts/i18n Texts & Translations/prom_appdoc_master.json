@@ -1,0 +1,23 @@
+{
+	"id": "ea78b8aa-8c52-4d96-a657-006df64add88",
+	"createdAt": "2025-11-09T23:22:25.801Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "prom_appdoc_master",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "prom_appdoc_master",
+	"ver": "25.11.10.1401",
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [],
+	"baseModel": null
+}

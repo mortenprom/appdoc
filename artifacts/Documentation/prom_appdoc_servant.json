@@ -1,0 +1,39 @@
+{
+	"id": "d9cd900c-32f1-4ba1-9fec-632374a86fb6",
+	"createdAt": "2025-11-09T23:37:24.765Z",
+	"createdBy": "morten@neptune-software.com",
+	"content": [
+		{
+			"id": "df08582c-965b-4b1b-fa9c-6f813c75b627",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<h3>Animal<br></h3><p>Dog</p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "sap-icon://fas/dog",
+			"title": "Animal",
+			"description": "Dog",
+			"fieldNo": "lbFormServantAnimal"
+		},
+		{
+			"id": "221bf3ce-ff67-4419-a1a0-f605c60c6a57",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<h3>Breed<br></h3><p>Siberian Husky<br></p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "sap-icon://fas/paw",
+			"title": "Breed",
+			"description": "Siberian Husky",
+			"fieldNo": "lbFormServantBreed"
+		}
+	],
+	"application": "prom_appdoc_servant",
+	"actionType": null,
+	"adaptiveId": null,
+	"actionWebApp": null,
+	"ver": "25.11.10.0041",
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc"
+}
