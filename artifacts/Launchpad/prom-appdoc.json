@@ -74,8 +74,9 @@
 			"id": "eedb4c88-9ec2-4bee-b654-782b8acffc02",
 			"name": "prom-appdoc",
 			"title": "prom-appdoc",
-			"ver": "25.11.10.0039"
+			"ver": "25.11.12.2342"
 		}
 	],
-	"roles": []
+	"roles": [],
+	"i18n": []
 }

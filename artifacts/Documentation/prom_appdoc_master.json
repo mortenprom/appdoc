@@ -30,12 +30,90 @@
 			"title": "City",
 			"description": "Oslo",
 			"fieldNo": "lbFormMasterCity"
+		},
+		{
+			"id": "ac72f332-fd84-49ce-b8fe-6410da0829e0",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<p><br></p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "sap-icon://fab/algolia",
+			"title": "UI Title",
+			"fieldNo": "titleFormMaster"
+		},
+		{
+			"id": "1d05ae38-9af0-4a57-b291-c1e56fc8678e",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<h3>AJAX<br></h3><p>The world needs it<br></p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "sap-icon://nep/ajax",
+			"title": "AJAX",
+			"description": "The world needs it",
+			"fieldNo": "ObjectHeader",
+			"dialogWidth": "300",
+			"dialogHeight": "200"
+		},
+		{
+			"id": "1d63f0b1-3a3e-4e5a-960b-bd40d5f5fefd",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<h3>Capital</h3><p>Where shit happens<br></p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "sap-icon://fas/city",
+			"title": "Capital",
+			"description": "Where shit happens",
+			"fieldNo": "inFormMasterCapital",
+			"dialogWidth": "400",
+			"dialogHeight": "300"
+		},
+		{
+			"id": "742d22e0-b5f5-49eb-9d5e-0b08bf854d32",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<p>Free Label<br></p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "",
+			"title": "Free Label",
+			"fieldNo": "lbFree",
+			"dialogWidth": "200",
+			"dialogHeight": "100"
+		},
+		{
+			"id": "747bd2aa-fadb-4c52-9c95-0e43f3769659",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<p>Free Check<br></p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "",
+			"title": "Free Check",
+			"fieldNo": "inFree",
+			"dialogWidth": "300",
+			"dialogHeight": "200"
 		}
 	],
 	"application": "prom_appdoc_master",
 	"actionType": "A",
 	"adaptiveId": null,
 	"actionWebApp": null,
-	"ver": "25.11.10.1417",
-	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc"
+	"ver": "25.11.17.2030",
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
+	"i18n": [
+		{
+			"id": "ca168cd7-1f79-4d3f-bae4-59a0b34ff24d",
+			"name": "promAppdoc",
+			"application": null,
+			"ver": "25.11.10.1416"
+		}
+	]
 }

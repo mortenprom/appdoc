@@ -172,5 +172,6 @@
 	"generateVersionOnActivation": false,
 	"activationHistoryCount": 0,
 	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
-	"apis": []
+	"apis": [],
+	"i18n": []
 }

@@ -35,5 +35,6 @@
 	"adaptiveId": null,
 	"actionWebApp": null,
 	"ver": "25.11.10.0041",
-	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc"
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
+	"i18n": []
 }

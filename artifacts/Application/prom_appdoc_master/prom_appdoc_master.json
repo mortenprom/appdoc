@@ -93,6 +93,60 @@
 							],
 							"data": [
 								{
+									"fieldNo": "0110b3c5-183f-43c0-fe36-a0d45290020e",
+									"fieldName": "ObjectHeader",
+									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
+									"fieldType": "sap.m.ObjectHeader",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "title",
+											"grouping": "Properties",
+											"value": "AJAX",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "number",
+											"grouping": "Properties",
+											"value": "5433",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "numberUnit",
+											"grouping": "Properties",
+											"value": "NOK",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "intro",
+											"grouping": "Properties",
+											"value": "Ajax to the world",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "icon",
+											"grouping": "Properties",
+											"value": "sap-icon://nep/ajax",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "numberState",
+											"grouping": "Properties",
+											"value": "Success",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
 									"fieldNo": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
 									"fieldName": "FormMaster",
 									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
@@ -107,9 +161,42 @@
 											"value": "true",
 											"script": "",
 											"translation": []
+										},
+										{
+											"attribute": "labelSpanL",
+											"grouping": "Properties",
+											"value": "12",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "labelSpanM",
+											"grouping": "Properties",
+											"value": "12",
+											"script": "",
+											"translation": []
 										}
 									],
 									"data": [
+										{
+											"fieldNo": "016ffeea-3dbf-45bc-b74d-5d46d5045138",
+											"fieldName": "titleFormMaster",
+											"fieldParent": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
+											"fieldType": "sap.ui.core.Title",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "Title Form Master",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
 										{
 											"fieldNo": "58ea88f5-4afe-4542-eace-21dad91bc136",
 											"fieldName": "lbFormMasterCountry",
@@ -185,8 +272,221 @@
 												}
 											],
 											"data": []
+										},
+										{
+											"fieldNo": "3972af2e-1d5f-4c27-861b-948ef0d7ac97",
+											"fieldName": "lbFormMasterCapital",
+											"fieldParent": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
+											"fieldType": "sap.m.Label",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "styleClass",
+													"grouping": "Properties",
+													"value": "nepEmptyLabel",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "6f2ad872-1afd-4264-a007-07a56c503ff4",
+											"fieldName": "inFormMasterCapital",
+											"fieldParent": "7d6c9745-4438-4ced-8bd4-9acfea30d05e",
+											"fieldType": "sap.m.CheckBox",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "Capital",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
 										}
 									]
+								},
+								{
+									"fieldNo": "6cf55271-34c7-421e-c8e7-0d9b5150513b",
+									"fieldName": "myForm",
+									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
+									"fieldType": "prom_appdoc_custom_form",
+									"script": "",
+									"customComponent": true,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "width",
+											"grouping": "Properties",
+											"value": "500px",
+											"script": "",
+											"fieldId": "548e345c-22d3-47f1-bb4d-5bbee8050202",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "d37facd7-f21f-4d82-8a2b-22a67ff5dc67",
+									"fieldName": "FlexBox",
+									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
+									"fieldType": "sap.m.FlexBox",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "width",
+											"grouping": "Properties",
+											"value": "100%",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "renderType",
+											"grouping": "Properties",
+											"value": "Bare",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "justifyContent",
+											"grouping": "Properties",
+											"value": "Center",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "alignItems",
+											"grouping": "Properties",
+											"value": "Center",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "alignContent",
+											"grouping": "Properties",
+											"value": "Center",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "styleClassMargin",
+											"grouping": "Properties",
+											"value": "sapUiMediumMarginTopBottom",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": [
+										{
+											"fieldNo": "23b38aca-27f7-43a4-e5cd-92e421967702",
+											"fieldName": "VBox",
+											"fieldParent": "d37facd7-f21f-4d82-8a2b-22a67ff5dc67",
+											"fieldType": "sap.m.VBox",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "renderType",
+													"grouping": "Properties",
+													"value": "Bare",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": [
+												{
+													"fieldNo": "e51503f4-29ce-41d8-ac49-bd2195a65b66",
+													"fieldName": "lbFree",
+													"fieldParent": "23b38aca-27f7-43a4-e5cd-92e421967702",
+													"fieldType": "sap.m.Label",
+													"script": "",
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "text",
+															"grouping": "Properties",
+															"value": "Feel Free",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												},
+												{
+													"fieldNo": "62bdf7a0-f2f7-444d-d077-9314ddeaa05c",
+													"fieldName": "Text",
+													"fieldParent": "23b38aca-27f7-43a4-e5cd-92e421967702",
+													"fieldType": "sap.m.Text",
+													"script": "",
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "text",
+															"grouping": "Properties",
+															"value": "A text that should be longer than all!",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												},
+												{
+													"fieldNo": "3fedebc2-da9d-4613-e55a-165d247c00b5",
+													"fieldName": "inFree",
+													"fieldParent": "23b38aca-27f7-43a4-e5cd-92e421967702",
+													"fieldType": "sap.m.CheckBox",
+													"script": "",
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "text",
+															"grouping": "Properties",
+															"value": "Check Free",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"fieldNo": "2ae1aa1b-5522-4882-e045-62e2a2b03d7d",
+									"fieldName": "Label",
+									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
+									"fieldType": "sap.m.Label",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [],
+									"data": []
+								},
+								{
+									"fieldNo": "3a215d25-7f43-455e-de5c-6f08c532e2b3",
+									"fieldName": "Title",
+									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
+									"fieldType": "sap.m.Title",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [],
+									"data": []
 								},
 								{
 									"fieldNo": "3e376428-6eda-42b7-8ae6-caafdbd3fb78",
@@ -615,7 +915,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.10.1401",
+	"ver": "25.11.17.2030",
 	"application": "prom_appdoc_master",
 	"title": "",
 	"description": "",
@@ -658,5 +958,6 @@
 	"generateVersionOnActivation": false,
 	"activationHistoryCount": 0,
 	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
-	"apis": []
+	"apis": [],
+	"i18n": []
 }

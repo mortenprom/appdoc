@@ -1,6 +1,6 @@
 {
-	"id": "ea78b8aa-8c52-4d96-a657-006df64add88",
-	"createdAt": "2025-11-09T23:22:25.801Z",
+	"id": "dc593e2d-0a08-4a14-9cc2-c2aa9740d6ef",
+	"createdAt": "2025-11-12T21:24:11.941Z",
 	"createdBy": "morten@neptune-software.com",
 	"attributes": [],
 	"locales": [
@@ -8,11 +8,11 @@
 			"isoCode": "EN"
 		}
 	],
-	"name": "prom_appdoc_master",
+	"name": "prom_appdoc_custom_form",
 	"description": null,
 	"fallbackLocale": "EN",
-	"application": "prom_appdoc_master",
-	"ver": "25.11.17.2030",
+	"application": "prom_appdoc_custom_form",
+	"ver": "25.11.12.2313",
 	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
 	"active": true,
 	"deleted": false,

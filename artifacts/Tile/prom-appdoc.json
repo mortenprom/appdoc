@@ -3,7 +3,7 @@
 	"createdAt": "2025-11-09T23:38:48.945Z",
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
-	"storeItem": null,
+	"storeItem": {},
 	"settings": {
 		"adaptive": {
 			"id": ""
@@ -40,8 +40,8 @@
 	"hideTileMobile": false,
 	"hideTileTablet": false,
 	"enableDocumentation": true,
-	"navObject": "",
-	"navAction": "",
+	"navObject": "prom",
+	"navAction": "appdoc",
 	"dialogWidth": null,
 	"dialogHeight": null,
 	"tileApplicationStyleClass": null,
@@ -63,7 +63,7 @@
 	"helpText": "Dogs & Cities",
 	"helpEnabled": true,
 	"openClickTile": false,
-	"ver": "25.11.10.0039",
+	"ver": "25.11.17.1849",
 	"actionWebApp": "",
 	"name": "prom-appdoc",
 	"cardWidth": null,
@@ -95,5 +95,6 @@
 	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
 	"roles": [],
 	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"darkTileLayouts": [],
+	"i18n": []
 }

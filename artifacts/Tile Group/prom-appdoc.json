@@ -4,7 +4,8 @@
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
-		"83616b33-1592-4e44-951e-eb9ebcb18439"
+		"83616b33-1592-4e44-951e-eb9ebcb18439",
+		"528d180d-9467-4652-aece-62984933eab4"
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
@@ -29,7 +30,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.11.10.0039",
+	"ver": "25.11.12.2342",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -101,10 +102,17 @@
 			"id": "83616b33-1592-4e44-951e-eb9ebcb18439",
 			"name": "prom-appdoc",
 			"title": "prom-appdoc",
-			"ver": "25.11.10.0039"
+			"ver": "25.11.17.1849"
+		},
+		{
+			"id": "528d180d-9467-4652-aece-62984933eab4",
+			"name": "prom_adaptivecrm_account_create",
+			"title": "neptune_adaptivecrm_account_create",
+			"ver": "25.11.12.2342"
 		}
 	],
 	"tilegroups": [],
 	"navbarGroups": [],
-	"sidebarGroups": []
+	"sidebarGroups": [],
+	"i18n": []
 }

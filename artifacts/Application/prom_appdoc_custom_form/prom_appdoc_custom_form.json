@@ -1,0 +1,146 @@
+{
+	"id": "cdf0311f-ea12-4dcd-bc62-4942332e8c78",
+	"createdAt": "2025-11-12T21:23:07.689Z",
+	"createdBy": "morten@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "548e345c-22d3-47f1-bb4d-5bbee8050202",
+			"fieldName": "CustomForm",
+			"fieldParent": 0,
+			"fieldType": "sap.ui.layout.form.SimpleForm",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "editable",
+					"grouping": "Properties",
+					"value": "true",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "layout",
+					"grouping": "Properties",
+					"value": "ResponsiveGridLayout",
+					"script": "",
+					"translation": []
+				}
+			],
+			"data": []
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "db2a28d9-7fc9-4048-d1a5-fc8709a35f76",
+					"fieldName": "namespace",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "file://script/neptune.Typescript/namespace.ts",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": {
+		"icon": null,
+		"documentation": "",
+		"containerId": null,
+		"attributes": [
+			{
+				"id": "a943e950-6563-4291-d73d-9acb5eb264e2",
+				"objectType": "group",
+				"attribute": {
+					"ATTRIBUTE": "CustomForm",
+					"GROUPING": ""
+				}
+			},
+			{
+				"id": "a0ed34b9-9297-4e82-cc66-e15c266633fb",
+				"objectType": "attribute",
+				"fieldId": "548e345c-22d3-47f1-bb4d-5bbee8050202",
+				"parent": "a943e950-6563-4291-d73d-9acb5eb264e2",
+				"attribute": {
+					"ATTRIBUTE": "width",
+					"GROUPING": "CustomForm",
+					"PARENT": "CustomForm"
+				},
+				"original": {
+					"FIELD_ID": "548e345c-22d3-47f1-bb4d-5bbee8050202",
+					"ATTRIBUTE": "width",
+					"VALUE_TABLE": 0,
+					"GROUPING": "Properties",
+					"PARENT": "Properties",
+					"SHOW_LABEL": false,
+					"DEFAULT": "",
+					"ENABLE_VALUES": false,
+					"VALUEHELPONLY": false,
+					"SCRIPT_ICON": "sap-icon://connected",
+					"SHOW_SCRIPT": false,
+					"ENABLE_SCRIPT": true,
+					"SHOW_BUTTON": true,
+					"DEPRECATED": false,
+					"children": []
+				},
+				"fieldType": "sap.ui.layout.form.SimpleForm"
+			}
+		],
+		"containers": [],
+		"topLevelObjects": [
+			"sap.ui.layout.form.SimpleForm"
+		]
+	},
+	"ver": "25.11.12.2313",
+	"application": "prom_appdoc_custom_form",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "E",
+	"ui5_m": false,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_integration": false,
+	"ui5_chart": false,
+	"ui5_theme": "",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
+	"apis": [],
+	"i18n": []
+}
