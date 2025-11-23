@@ -314,27 +314,6 @@
 									]
 								},
 								{
-									"fieldNo": "6cf55271-34c7-421e-c8e7-0d9b5150513b",
-									"fieldName": "myForm",
-									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
-									"fieldType": "prom_appdoc_custom_form",
-									"script": "",
-									"customComponent": true,
-									"request": [],
-									"response": [],
-									"attributes": [
-										{
-											"attribute": "width",
-											"grouping": "Properties",
-											"value": "500px",
-											"script": "",
-											"fieldId": "548e345c-22d3-47f1-bb4d-5bbee8050202",
-											"translation": []
-										}
-									],
-									"data": []
-								},
-								{
 									"fieldNo": "d37facd7-f21f-4d82-8a2b-22a67ff5dc67",
 									"fieldName": "FlexBox",
 									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
@@ -463,6 +442,83 @@
 													"data": []
 												}
 											]
+										}
+									]
+								},
+								{
+									"fieldNo": "2a3ce107-a2d0-4c64-c604-747abf0b0277",
+									"fieldName": "FormLabel",
+									"fieldParent": "47263100-c49b-4ac7-fb28-bfc7fc36862e",
+									"fieldType": "sap.ui.layout.form.SimpleForm",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "editable",
+											"grouping": "Properties",
+											"value": "true",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": [
+										{
+											"fieldNo": "9368992f-423e-458e-8eeb-41011b1090dc",
+											"fieldName": "titleFormLabel",
+											"fieldParent": "2a3ce107-a2d0-4c64-c604-747abf0b0277",
+											"fieldType": "sap.m.Title",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "Form Label",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "147dc7c1-d199-453f-9927-b1d57f369151",
+											"fieldName": "lbFormLabelEmployee",
+											"fieldParent": "2a3ce107-a2d0-4c64-c604-747abf0b0277",
+											"fieldType": "sap.m.Label",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "Employee",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "a343dbaa-5dd0-4588-9d71-6a00388e8168",
+											"fieldName": "txFormLabelEmployee",
+											"fieldParent": "2a3ce107-a2d0-4c64-c604-747abf0b0277",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "Ayla the Husky",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
 										}
 									]
 								},
@@ -915,7 +971,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.17.2030",
+	"ver": "25.11.18.1738",
 	"application": "prom_appdoc_master",
 	"title": "",
 	"description": "",

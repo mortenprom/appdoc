@@ -10,7 +10,154 @@
 				"text": "My International City"
 			},
 			"type": "XTXT",
-			"id": "78400957-763b-432a-8876-5c87e61c931b"
+			"id": "78400957-763b-432a-8876-5c87e61c931b",
+			"AF": {
+				"text": "My Internasionale Stad"
+			},
+			"AR": {
+				"text": "مدينتي الدولية"
+			},
+			"AZ": {
+				"text": "Mənim Beynəlxalq Şəhərim"
+			},
+			"BG": {
+				"text": "Моят международен град"
+			},
+			"CA": {
+				"text": "La meva ciutat internacional"
+			},
+			"CE": {
+				"text": "Сан дуьненаюкъара гӀала"
+			},
+			"ZH": {
+				"text": "我的国际城市"
+			},
+			"ZF": {
+				"text": "我的國際城市"
+			},
+			"HR": {
+				"text": "Moj međunarodni grad"
+			},
+			"CS": {
+				"text": "Moje mezinárodní město"
+			},
+			"DA": {
+				"text": "Min internationale by"
+			},
+			"NL": {
+				"text": "Mijn internationale stad"
+			},
+			"ET": {
+				"text": "Minu rahvusvaheline linn"
+			},
+			"FI": {
+				"text": "Kansainvälinen kaupunkini"
+			},
+			"FR": {
+				"text": "Ma ville internationale"
+			},
+			"DE": {
+				"text": "Meine internationale Stadt"
+			},
+			"EL": {
+				"text": "Η Διεθνής Πόλη μου"
+			},
+			"HE": {
+				"text": "העיר הבינלאומית שלי"
+			},
+			"HI": {
+				"text": "मेरा अंतर्राष्ट्रीय शहर"
+			},
+			"HU": {
+				"text": "Az én nemzetközi városom"
+			},
+			"IS": {
+				"text": "Alþjóðaborg mín"
+			},
+			"ID": {
+				"text": "Kota Internasional Saya"
+			},
+			"IT": {
+				"text": "La mia città internazionale"
+			},
+			"JA": {
+				"text": "私の国際都市"
+			},
+			"KK": {
+				"text": "Менің халықаралық қалам"
+			},
+			"KO": {
+				"text": "내 국제 도시"
+			},
+			"LV": {
+				"text": "Mana starptautiskā pilsēta"
+			},
+			"LT": {
+				"text": "Mano tarptautinis miestas"
+			},
+			"MK": {
+				"text": "Мојот меѓународен град"
+			},
+			"MS": {
+				"text": "Bandar Antarabangsa saya"
+			},
+			"NO": {
+				"text": "Min internasjonale by"
+			},
+			"NN": {
+				"text": "Min internasjonale by"
+			},
+			"PL": {
+				"text": "Moje Międzynarodowe Miasto"
+			},
+			"PT": {
+				"text": "Minha Cidade Internacional"
+			},
+			"RO": {
+				"text": "Orașul meu internațional"
+			},
+			"RU": {
+				"text": "Мой международный город"
+			},
+			"SE": {
+				"text": "Mu riikkaidgaskasaš gávpot"
+			},
+			"SR": {
+				"text": "Мој међународни град"
+			},
+			"SH": {
+				"text": "Мој међународни град"
+			},
+			"SK": {
+				"text": "Moje medzinárodné mesto"
+			},
+			"SL": {
+				"text": "Moje mednarodno mesto"
+			},
+			"ES": {
+				"text": "Mi ciudad internacional"
+			},
+			"0S": {
+				"text": ""
+			},
+			"SV": {
+				"text": "Min internationella stad"
+			},
+			"TH": {
+				"text": "เมืองนานาชาติของฉัน"
+			},
+			"TR": {
+				"text": "Uluslararası Şehrim"
+			},
+			"UK": {
+				"text": "Моє міжнародне місто"
+			},
+			"VI": {
+				"text": "Thành phố quốc tế của tôi"
+			},
+			"CY": {
+				"text": "Fy Ninas Ryngwladol"
+			}
 		},
 		{
 			"name": "contryContent",
@@ -19,7 +166,154 @@
 				"text": "<h4>Country</h4><p>The best country</p>"
 			},
 			"type": "XTXT",
-			"id": "75ebb7ca-cdb3-4d03-bfd6-62091ef88f87"
+			"id": "75ebb7ca-cdb3-4d03-bfd6-62091ef88f87",
+			"AF": {
+				"text": "<h4>Land</h4><p>Die beste land</p>"
+			},
+			"AR": {
+				"text": "<h4>البلد</h4><p>أفضل بلد</p>"
+			},
+			"AZ": {
+				"text": "<h4>Ölkə</h4><p>Ən yaxşı ölkə</p>"
+			},
+			"BG": {
+				"text": "<h4>Държава</h4><p>Най-добрата държава</p>"
+			},
+			"CA": {
+				"text": "<h4>País</h4><p>El millor país</p>"
+			},
+			"CE": {
+				"text": "<h4>Мохк</h4><p>Уггар дика мохк</p>"
+			},
+			"ZH": {
+				"text": "<h4>国家</h4><p>最好的国家</p>"
+			},
+			"ZF": {
+				"text": "<h4>國家</h4><p>最好的國家</p>"
+			},
+			"HR": {
+				"text": "<h4>Država</h4><p>Najbolja država</p>"
+			},
+			"CS": {
+				"text": "<h4>Země</h4><p>Nejlepší země</p>"
+			},
+			"DA": {
+				"text": "<h4>Land</h4><p>Det bedste land</p>"
+			},
+			"NL": {
+				"text": "<h4>Land</h4><p>Het beste land</p>"
+			},
+			"ET": {
+				"text": "<h4>Riik</h4><p>Parim riik</p>"
+			},
+			"FI": {
+				"text": "<h4>Maa</h4><p>Paras maa</p>"
+			},
+			"FR": {
+				"text": "<h4>Pays</h4><p>Le meilleur pays</p>"
+			},
+			"DE": {
+				"text": "<h4>Land</h4><p>Das beste Land</p>"
+			},
+			"EL": {
+				"text": "<h4>Χώρα</h4><p>Η καλύτερη χώρα</p>"
+			},
+			"HE": {
+				"text": "<h4>מדינה</h4><p>המדינה הטובה ביותר</p>"
+			},
+			"HI": {
+				"text": "<h4>देश</h4><p>सबसे अच्छा देश</p>"
+			},
+			"HU": {
+				"text": "<h4>Ország</h4><p>A legjobb ország</p>"
+			},
+			"IS": {
+				"text": "<h4>Landið</h4><p>Besta landið</p>"
+			},
+			"ID": {
+				"text": "<h4>Negara</h4><p>Negara terbaik</p>"
+			},
+			"IT": {
+				"text": "<h4>Paese</h4><p>Il miglior paese</p>"
+			},
+			"JA": {
+				"text": "<h4>国</h4><p>最高の国</p>"
+			},
+			"KK": {
+				"text": "<h4>Ел</h4><p>Ең жақсы ел</p>"
+			},
+			"KO": {
+				"text": "<h4>국가</h4><p>최고의 국가</p>"
+			},
+			"LV": {
+				"text": "<h4>Valsts</h4><p>Vislabākā valsts</p>"
+			},
+			"LT": {
+				"text": "<h4>Šalis</h4><p>Geriausia šalis</p>"
+			},
+			"MK": {
+				"text": "<h4>Земја</h4><p>Најдобрата земја</p>"
+			},
+			"MS": {
+				"text": "<h4>Negara</h4><p>Negara terbaik</p>"
+			},
+			"NO": {
+				"text": "<h4>Land</h4><p>Det beste landet</p>"
+			},
+			"NN": {
+				"text": "<h4>Land</h4><p>Det beste landet</p>"
+			},
+			"PL": {
+				"text": "<h4>Kraj</h4><p>Najlepszy kraj</p>"
+			},
+			"PT": {
+				"text": "<h4>País</h4><p>O melhor país</p>"
+			},
+			"RO": {
+				"text": "<h4>Țară</h4><p>Cea mai bună țară</p>"
+			},
+			"RU": {
+				"text": "<h4>Страна</h4><p>Лучшая страна</p>"
+			},
+			"SE": {
+				"text": "<h4>Riika</h4><p>Buoremus riika</p>"
+			},
+			"SR": {
+				"text": "<h4>Земља</h4><p>Најбоља земља</p>"
+			},
+			"SH": {
+				"text": "<h4>Земља</h4><p>Најбоља земља</p>"
+			},
+			"SK": {
+				"text": "<h4>Krajina</h4><p>Najlepšia krajina</p>"
+			},
+			"SL": {
+				"text": "<h4>Država</h4><p>Najboljša država</p>"
+			},
+			"ES": {
+				"text": "<h4>País</h4><p>El mejor país</p>"
+			},
+			"0S": {
+				"text": ""
+			},
+			"SV": {
+				"text": "<h4>Land</h4><p>Det bästa landet</p>"
+			},
+			"TH": {
+				"text": "<h4>ประเทศ</h4><p>ประเทศที่ดีที่สุด</p>"
+			},
+			"TR": {
+				"text": "<h4>Ülke</h4><p>En iyi ülke</p>"
+			},
+			"UK": {
+				"text": "<h4>Країна</h4><p>Найкраща країна</p>"
+			},
+			"VI": {
+				"text": "<h4>Quốc gia</h4><p>Quốc gia tốt nhất</p>"
+			},
+			"CY": {
+				"text": "<h4>Gwlad</h4><p>Y wlad orau</p>"
+			}
 		},
 		{
 			"name": "country",
@@ -28,19 +322,313 @@
 				"text": "My International Country"
 			},
 			"type": "XTXT",
-			"id": "1b7e41d9-2c84-4f36-c2d5-3e881ccf2295"
+			"id": "1b7e41d9-2c84-4f36-c2d5-3e881ccf2295",
+			"AF": {
+				"text": "My Internasionale Land"
+			},
+			"AR": {
+				"text": "بلدي الدولي"
+			},
+			"AZ": {
+				"text": "Mənim Beynəlxalq Ölkəm"
+			},
+			"BG": {
+				"text": "Моята международна страна"
+			},
+			"CA": {
+				"text": "El meu país internacional"
+			},
+			"CE": {
+				"text": "Сан дуьненаюкъара пачхьалкх"
+			},
+			"ZH": {
+				"text": "我的国际国家"
+			},
+			"ZF": {
+				"text": "我的國際國家"
+			},
+			"HR": {
+				"text": "Moja međunarodna zemlja"
+			},
+			"CS": {
+				"text": "Moje mezinárodní země"
+			},
+			"DA": {
+				"text": "Mit internationale land"
+			},
+			"NL": {
+				"text": "Mijn internationale land"
+			},
+			"ET": {
+				"text": "Minu rahvusvaheline riik"
+			},
+			"FI": {
+				"text": "Kansainvälinen maani"
+			},
+			"FR": {
+				"text": "Mon pays international"
+			},
+			"DE": {
+				"text": "Mein internationales Land"
+			},
+			"EL": {
+				"text": "Η διεθνής μου χώρα"
+			},
+			"HE": {
+				"text": "המדינה הבינלאומית שלי"
+			},
+			"HI": {
+				"text": "मेरा अंतर्राष्ट्रीय देश"
+			},
+			"HU": {
+				"text": "Az én nemzetközi hazám"
+			},
+			"IS": {
+				"text": "Alþjóðlegt land mitt"
+			},
+			"ID": {
+				"text": "Negara Internasional Saya"
+			},
+			"IT": {
+				"text": "Il mio paese internazionale"
+			},
+			"JA": {
+				"text": "私の国際的な国"
+			},
+			"KK": {
+				"text": "Менің халықаралық елім"
+			},
+			"KO": {
+				"text": "내 국제 국가"
+			},
+			"LV": {
+				"text": "Mana starptautiskā valsts"
+			},
+			"LT": {
+				"text": "Mano tarptautinė šalis"
+			},
+			"MK": {
+				"text": "Мојата меѓународна земја"
+			},
+			"MS": {
+				"text": "Negara Antarabangsaku"
+			},
+			"NO": {
+				"text": "Mitt internasjonale land"
+			},
+			"NN": {
+				"text": "Mitt internasjonale land"
+			},
+			"PL": {
+				"text": "Mój międzynarodowy kraj"
+			},
+			"PT": {
+				"text": "Meu país internacional"
+			},
+			"RO": {
+				"text": "Țara mea internațională"
+			},
+			"RU": {
+				"text": "Моя международная страна"
+			},
+			"SE": {
+				"text": "Mu riikkaidgaskasaš riika"
+			},
+			"SR": {
+				"text": "Моја међународна земља"
+			},
+			"SH": {
+				"text": "Моја међународна земља"
+			},
+			"SK": {
+				"text": "Moja medzinárodná krajina"
+			},
+			"SL": {
+				"text": "Moja mednarodna država"
+			},
+			"ES": {
+				"text": "Mi país internacional"
+			},
+			"0S": {
+				"text": ""
+			},
+			"SV": {
+				"text": "Mitt internationella land"
+			},
+			"TH": {
+				"text": "ประเทศนานาชาติของฉัน"
+			},
+			"TR": {
+				"text": "Uluslararası Ülkem"
+			},
+			"UK": {
+				"text": "Моя міжнародна країна"
+			},
+			"VI": {
+				"text": "Đất nước quốc tế của tôi"
+			},
+			"CY": {
+				"text": "Fy Ngwlad Ryngwladol"
+			}
 		}
 	],
 	"locales": [
 		{
 			"isoCode": "EN"
+		},
+		{
+			"isoCode": "AF"
+		},
+		{
+			"isoCode": "AR"
+		},
+		{
+			"isoCode": "AZ"
+		},
+		{
+			"isoCode": "BG"
+		},
+		{
+			"isoCode": "CA"
+		},
+		{
+			"isoCode": "CE"
+		},
+		{
+			"isoCode": "ZH"
+		},
+		{
+			"isoCode": "ZF"
+		},
+		{
+			"isoCode": "HR"
+		},
+		{
+			"isoCode": "CS"
+		},
+		{
+			"isoCode": "DA"
+		},
+		{
+			"isoCode": "NL"
+		},
+		{
+			"isoCode": "ET"
+		},
+		{
+			"isoCode": "FI"
+		},
+		{
+			"isoCode": "FR"
+		},
+		{
+			"isoCode": "DE"
+		},
+		{
+			"isoCode": "EL"
+		},
+		{
+			"isoCode": "HE"
+		},
+		{
+			"isoCode": "HI"
+		},
+		{
+			"isoCode": "HU"
+		},
+		{
+			"isoCode": "IS"
+		},
+		{
+			"isoCode": "ID"
+		},
+		{
+			"isoCode": "IT"
+		},
+		{
+			"isoCode": "JA"
+		},
+		{
+			"isoCode": "KK"
+		},
+		{
+			"isoCode": "KO"
+		},
+		{
+			"isoCode": "LV"
+		},
+		{
+			"isoCode": "LT"
+		},
+		{
+			"isoCode": "MK"
+		},
+		{
+			"isoCode": "MS"
+		},
+		{
+			"isoCode": "NO"
+		},
+		{
+			"isoCode": "NN"
+		},
+		{
+			"isoCode": "PL"
+		},
+		{
+			"isoCode": "PT"
+		},
+		{
+			"isoCode": "RO"
+		},
+		{
+			"isoCode": "RU"
+		},
+		{
+			"isoCode": "SE"
+		},
+		{
+			"isoCode": "SR"
+		},
+		{
+			"isoCode": "SH"
+		},
+		{
+			"isoCode": "SK"
+		},
+		{
+			"isoCode": "SL"
+		},
+		{
+			"isoCode": "ES"
+		},
+		{
+			"isoCode": "0S"
+		},
+		{
+			"isoCode": "SV"
+		},
+		{
+			"isoCode": "TH"
+		},
+		{
+			"isoCode": "TR"
+		},
+		{
+			"isoCode": "UK"
+		},
+		{
+			"isoCode": "VI"
+		},
+		{
+			"isoCode": "CY"
 		}
 	],
 	"name": "promAppdoc",
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.10.1416",
+	"ver": "25.11.23.1225",
 	"package": "cb33a5d1-156d-4c07-b6b9-653331f985bc",
 	"active": true,
 	"deleted": false,

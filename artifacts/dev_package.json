@@ -123,5 +123,6 @@
 	"ai_prompt": [],
 	"ai_tool": [],
 	"ai_guardrail": [],
-	"path_rewrite": []
+	"path_rewrite": [],
+	"vault": []
 }
